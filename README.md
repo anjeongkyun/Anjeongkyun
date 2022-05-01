@@ -1,5 +1,6 @@
 ### 안녕하세요 안정균입니다. 👋
-### 🌱현재 Spring, Vue를 주로 다룹니다.
+#### 현재는 Spring, Vue를 주로 다룹니다.<br><br>
+###  주요 Stack <hr>
 <!--
 **Anjeongkyun/Anjeongkyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
