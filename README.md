@@ -13,7 +13,7 @@
 <br><br>
 
 
-🔨Tool<hr>
+🔨Tools<hr>
 Visual Studio, Visual Studio Code, Eclipse,...
 
 <!--
