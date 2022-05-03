@@ -1,9 +1,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjeongkyun&show_icons=true&theme=dracula)
 <br><br>
-###  ⭐Language⭐<hr>
+###  🌐Language<hr>
 ###  C#    SpringBoot    Vue<br><br>
 
-###  [Tool]<hr>
+###  🔨Tool<hr>
 ### Visual Studio, Visual Studio Code, Eclipse,...
 
 <!--
