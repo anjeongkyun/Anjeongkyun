@@ -19,7 +19,7 @@
 
 
 ### 🔨 Tools<hr>
-Visual Studio, Visual Studio Code, Eclipse,...
+Visual Studio, Visual Studio Code, Eclipse, IntelliJ ...
 
 <!--
 **Anjeongkyun/Anjeongkyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
