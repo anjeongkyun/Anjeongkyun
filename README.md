@@ -20,7 +20,8 @@
 
 ### 🔨 Tools<hr>
 Visual Studio, Visual Studio Code, Eclipse, STS4, IntelliJ ...
-
+<img src="https://img.shields.io/badge/Visual Studio-000000?style=for-the-badge&logo=Visual Studio&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 <!--
 **Anjeongkyun/Anjeongkyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
