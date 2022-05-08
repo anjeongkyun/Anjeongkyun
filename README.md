@@ -21,8 +21,10 @@
 ### 🔨 Tools<hr>
 <div>
 <img src="https://img.shields.io/badge/Visual Studio-000000?style=for-the-badge&logo=Visual Studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual Studio Code-000000?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse IDE-000000?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse IDE-000000?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
 </div>
 
 <!--
