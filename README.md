@@ -1,4 +1,4 @@
-### 🏢 Stats <hr>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjeongkyun&show_icons=true&theme=dracula)
 <br><br><br>
 
