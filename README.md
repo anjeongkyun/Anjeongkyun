@@ -5,7 +5,7 @@
 
 
 ###  📋 Skills<hr>
-<div>  
+<div align="center">
 <img src="https://img.shields.io/badge/-C%23-007326?style=for-the-badge&logo=Csharp&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -20,7 +20,7 @@
 
 
 ### 🔨 Tools<hr>
-<div>
+<div align="center">
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
