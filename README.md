@@ -1,7 +1,6 @@
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjeongkyun&show_icons=true&theme=dracula)
-<br><br><br>
-
+<div align = "center">
+  <h2>Welcome!</h2>
+</div>
 
 
 ###  📋 Skills<hr>
