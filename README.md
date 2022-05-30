@@ -1,5 +1,5 @@
 <div align = "center">
-  <h2>안녕하세요 안정균입니다.</h2>
+  <h2>Welcome</h2>
 </div>
 
 
