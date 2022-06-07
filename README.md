@@ -1,8 +1,3 @@
-<div align = "center">
-  <h2>Welcome !</h2>
-</div>
-
-
 ###  📋 Skills<hr>
 <div align="center">
 <img src="https://img.shields.io/badge/-C%23-007326?style=for-the-badge&logo=Csharp&logoColor=white">
