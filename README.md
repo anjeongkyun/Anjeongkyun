@@ -1,3 +1,9 @@
+<div align="center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanjeongkyun&count_bg=%232B55CD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
 ###  📋 Skills<hr>
 <div align="center">
 <img src="https://img.shields.io/badge/-C%23-007326?style=for-the-badge&logo=Csharp&logoColor=white">
