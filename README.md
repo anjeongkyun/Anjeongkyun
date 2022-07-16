@@ -26,6 +26,8 @@
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 </div>
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
+
 <!--
 **Anjeongkyun/Anjeongkyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
