@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=66CCFF&height=200&section=header&text=Hello!&desc=I`m%20interested%20in%20servers%20and%20infrastructure&fontSize=65&fontAlignY=40&descSize=22rotate=-30&animation=fadeIn)
 
-
 <div align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanjeongkyun&count_bg=%232B55CD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-red?style=flat&logoColor=white)]("https://jeongkyun-it.tistory.com/)
+</a>
+
+<a href="https://jeongkyun-it.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-red?style=flat&logo=Tether&logoColor=white"/></a>
 
 
 </div>
