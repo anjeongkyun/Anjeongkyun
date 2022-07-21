@@ -1,10 +1,22 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=66CCFF&height=200&section=header&text=Hello!&desc=I`m%20interested%20in%20servers%20and%20infrastructure&fontSize=65&fontAlignY=40&descSize=22rotate=-30&animation=fadeIn)
 
 
 <div align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanjeongkyun&count_bg=%232B55CD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-red?style=flat&logoColor=white)]("https://jeongkyun-it.tistory.com/)
+
+
 </div>
+
+<br><br>
+
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=anjeongkyun&hide=stars&show_icons=true&count_private=true&line_height=24" style="width: 492px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjeongkyun&layout=compact&langs_count=6">
+</p>
+
 
 <br><br>
 
@@ -40,7 +52,7 @@
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=66CCFF&height=150&section=footer)
 
 <!--
 **Anjeongkyun/Anjeongkyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
