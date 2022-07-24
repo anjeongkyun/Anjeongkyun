@@ -8,7 +8,7 @@
 
 <a href="https://jeongkyun-it.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-red?style=flat&logo=Tether&logoColor=white"/></a>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anjeongkyun/)](https://www.linkedin.com/in/anjeongkyun/)
-
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anwjdrbs123@gmail.com)](mailto:anwjdrbs123@gmail.com)
 </div>
 
 <br><br>
